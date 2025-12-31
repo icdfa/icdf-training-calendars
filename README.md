@@ -13,27 +13,11 @@ The repository follows a category-based organization system:
 ```
 icdf-training-calendars/
 ├── Schools/
+│   ├── School_of_Basic_Vocational_Training/
+│   ├── School_of_Internship_Training/
 │   ├── School_of_Advanced_Vocational_Training/
-│   │   ├── Advanced_Cybercrime_Investigations/
-│   │   │   ├── Batch_2025/
-│   │   │   │   ├── Phase_1/
-│   │   │   │   │   ├── README.md
-│   │   │   │   │   ├── Phase_1_Training_Calendar.md
-│   │   │   │   │   └── [Additional Phase 1 Resources]
-│   │   │   │   ├── Phase_2/
-│   │   │   │   │   ├── README.md
-│   │   │   │   │   ├── Phase_2_Training_Calendar.md
-│   │   │   │   │   ├── Case_Studies/
-│   │   │   │   │   │   ├── Case_Study_1_E_Commerce_Data_Breach.md
-│   │   │   │   │   │   ├── Case_Study_2_Insider_Threat.md
-│   │   │   │   │   │   ├── Case_Study_3_Ransomware_Attack.md
-│   │   │   │   │   │   ├── Case_Study_4_Phishing_Campaign.md
-│   │   │   │   │   │   └── Case_Study_5_Dark_Web_Marketplace.md
-│   │   │   │   │   └── [Additional Phase 2 Resources]
-│   │   │   │   └── README.md
-│   │   │   └── README.md
-│   │   └── README.md
-│   └── [Other Schools]
+│   ├── School_of_Professional_Development/
+│   └── School_of_Cyber_Risk_Governance_and_Compliance/
 ├── Documentation/
 │   ├── CONTRIBUTING.md
 │   ├── STRUCTURE_GUIDE.md
@@ -43,27 +27,94 @@ icdf-training-calendars/
 └── LICENSE
 ```
 
-## Quick Navigation
+## Schools and Programs
 
-### Schools
+### School of Basic Vocational Training (SBVT)
 
-- **[School of Advanced Vocational Training](Schools/School_of_Advanced_Vocational_Training/)**
-  - Programs and cohorts under this school
+The School of Basic Vocational Training provides foundational training programs for entry-level cybersecurity professionals.
 
-### Programs
+**Programs:**
+- **[Fellowship in Web Application Security and Digital Forensics](Schools/School_of_Basic_Vocational_Training/Fellowship_in_Web_Application_Security_and_Digital_Forensics/)**
+  - Web application security assessment
+  - Digital forensics fundamentals
+  - Incident response procedures
+
+[View School Details](Schools/School_of_Basic_Vocational_Training/)
+
+### School of Internship Training (SIT)
+
+The School of Internship Training provides immersive internship programs combining theoretical knowledge with practical experience.
+
+**Programs:**
+- **[Ethical Hacking and Digital Forensics Internship](Schools/School_of_Internship_Training/Ethical_Hacking_and_Digital_Forensics_Internship/)**
+  - Ethical hacking methodologies
+  - Penetration testing techniques
+  - Digital forensics investigation
+
+[View School Details](Schools/School_of_Internship_Training/)
+
+### School of Advanced Vocational Training (SAVT)
+
+The School of Advanced Vocational Training offers advanced programs in specialized cybersecurity domains.
+
+**Programs:**
+- **[Advanced SOC Analyst](Schools/School_of_Advanced_Vocational_Training/Advanced_SOC_Analyst/)**
+  - SOC operations and management
+  - Threat detection and analysis
+  - Incident response procedures
 
 - **[Advanced Cybercrime Investigations](Schools/School_of_Advanced_Vocational_Training/Advanced_Cybercrime_Investigations/)**
-  - Batch 2025 - Phase 1 and Phase 2 training calendars
+  - Cybercrime investigation techniques
+  - Digital forensics and evidence analysis
+  - Legal and ethical frameworks
+  - Real-world case studies
 
-### Cohorts and Phases
+- **[Advanced Cybersecurity Operations and Threat Intelligence](Schools/School_of_Advanced_Vocational_Training/Advanced_Cybersecurity_Operations_and_Threat_Intelligence/)**
+  - Cybersecurity operations management
+  - Threat intelligence collection and analysis
+  - Advanced threat hunting
 
-- **[Batch 2025 - Phase 1](Schools/School_of_Advanced_Vocational_Training/Advanced_Cybercrime_Investigations/Batch_2025/Phase_1/)**
-  - Phase 1 training calendar and resources
+[View School Details](Schools/School_of_Advanced_Vocational_Training/)
 
-- **[Batch 2025 - Phase 2](Schools/School_of_Advanced_Vocational_Training/Advanced_Cybercrime_Investigations/Batch_2025/Phase_2/)**
-  - Phase 2 training calendar with 5 integrated case studies
-  - Individual case study documents
-  - Course materials and resources
+### School of Professional Development (SPD)
+
+The School of Professional Development offers certification programs for career advancement in cybersecurity.
+
+**Programs:**
+- **[Certified Cybersecurity Instructor (CCI) Programme](Schools/School_of_Professional_Development/Certified_Cybersecurity_Instructor_Programme/)**
+  - Instructional design and curriculum development
+  - Teaching methodologies for cybersecurity
+  - Assessment and evaluation techniques
+
+- **[Certified Cybersecurity Consultant](Schools/School_of_Professional_Development/Certified_Cybersecurity_Consultant/)**
+  - Security consulting methodologies
+  - Risk assessment and management
+  - Compliance and regulatory consulting
+
+[View School Details](Schools/School_of_Professional_Development/)
+
+### School of Cyber Risk, Governance and Compliance (SCRGC)
+
+The School of Cyber Risk, Governance and Compliance provides specialized training in GRC frameworks and practices.
+
+**Programs:**
+- **[GRC Engineering (CGRCE)](Schools/School_of_Cyber_Risk_Governance_and_Compliance/GRC_Engineering/)**
+  - GRC framework design and implementation
+  - Risk assessment and management
+  - Compliance with cybersecurity regulations
+  - Policy development and governance
+
+[View School Details](Schools/School_of_Cyber_Risk_Governance_and_Compliance/)
+
+## Quick Navigation by School
+
+| School | Programs | Status |
+|---|---|---|
+| [School of Basic Vocational Training](Schools/School_of_Basic_Vocational_Training/) | Fellowship in Web Application Security and Digital Forensics | Active |
+| [School of Internship Training](Schools/School_of_Internship_Training/) | Ethical Hacking and Digital Forensics Internship | Active |
+| [School of Advanced Vocational Training](Schools/School_of_Advanced_Vocational_Training/) | Advanced SOC Analyst, Advanced Cybercrime Investigations, Advanced Cybersecurity Operations and Threat Intelligence | Active |
+| [School of Professional Development](Schools/School_of_Professional_Development/) | Certified Cybersecurity Instructor (CCI), Certified Cybersecurity Consultant | Active |
+| [School of Cyber Risk, Governance and Compliance](Schools/School_of_Cyber_Risk_Governance_and_Compliance/) | GRC Engineering (CGRCE) | Active |
 
 ## Key Features
 
@@ -126,7 +177,7 @@ To contribute to this repository:
 
 1. **Clone the repository**
    ```bash
-   gh repo clone icdf-academy/icdf-training-calendars
+   gh repo clone icdfa/icdf-training-calendars
    ```
 
 2. **Create a new branch**
@@ -160,14 +211,18 @@ To contribute to this repository:
 - **[NAMING_CONVENTIONS.md](Documentation/NAMING_CONVENTIONS.md)** - File and folder naming standards
 - **[CONTRIBUTING.md](Documentation/CONTRIBUTING.md)** - Contribution guidelines
 
-## Current Programs
+## All Programs Summary
 
-### School of Advanced Vocational Training
-
-#### Advanced Cybercrime Investigations
-- **Batch 2025**
-  - Phase 1: Foundation and Core Concepts
-  - Phase 2: Advanced Practical Training with Case Studies
+| School | Program | Batch | Phases | Status |
+|---|---|---|---|---|
+| SBVT | Fellowship in Web Application Security and Digital Forensics | 2025 | 1, 2 | Active |
+| SIT | Ethical Hacking and Digital Forensics Internship | 2025 | 1, 2 | Active |
+| SAVT | Advanced SOC Analyst | 2025 | 1, 2 | Active |
+| SAVT | Advanced Cybercrime Investigations | 2025 | 1, 2 | Active |
+| SAVT | Advanced Cybersecurity Operations and Threat Intelligence | 2025 | 1, 2 | Active |
+| SPD | Certified Cybersecurity Instructor (CCI) Programme | 2025 | 1, 2 | Active |
+| SPD | Certified Cybersecurity Consultant | 2025 | 1, 2 | Active |
+| SCRGC | GRC Engineering (CGRCE) | 2025 | 1, 2 | Active |
 
 ## Adding New Programs
 
@@ -193,6 +248,7 @@ For questions about:
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | December 31, 2025 | Initial repository creation with Batch 2025 Phase 1 and Phase 2 calendars |
+| 1.1 | December 31, 2025 | Added all 5 schools and 8 programs with complete structure |
 
 ## License
 
@@ -202,7 +258,6 @@ This repository is maintained by the International Cybersecurity and Digital For
 
 **International Cybersecurity and Digital Forensic Academy (ICDF Academy)**  
 School of Advanced Training  
-Advanced Cybercrime Investigations Program
 
 For inquiries, please contact the academy administration.
 
