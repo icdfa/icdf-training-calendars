@@ -1,0 +1,48 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# System Files
+.AppleDouble
+.LSOverride
+
+# Build/Cache
+node_modules/
+.cache/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Private/Sensitive
+private/
+secrets/
+*.key
+*.pem
