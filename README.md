@@ -210,6 +210,9 @@ To contribute to this repository:
 - **[STRUCTURE_GUIDE.md](Documentation/STRUCTURE_GUIDE.md)** - Detailed guide to repository structure
 - **[NAMING_CONVENTIONS.md](Documentation/NAMING_CONVENTIONS.md)** - File and folder naming standards
 - **[CONTRIBUTING.md](Documentation/CONTRIBUTING.md)** - Contribution guidelines
+- **[FAQ.md](Documentation/FAQ.md)** - Frequently asked questions
+- **[PROGRAM_INDEX.md](Documentation/PROGRAM_INDEX.md)** - Quick access index to all programs
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
 
 ## All Programs Summary
 
@@ -243,12 +246,22 @@ For questions about:
 - **Contributing**: See [CONTRIBUTING.md](Documentation/CONTRIBUTING.md)
 - **Specific programs**: Contact the respective school or program coordinator
 
+## Templates
+
+Standardized templates are available in the [Templates](Templates/) directory for creating consistent documentation:
+
+- **Training Calendar Template** - For creating phase training calendars
+- **Case Study Template** - For developing case studies and practical exercises
+
+See the [Templates README](Templates/README.md) for detailed usage instructions.
+
 ## Version History
 
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | December 31, 2025 | Initial repository creation with Batch 2025 Phase 1 and Phase 2 calendars |
 | 1.1 | December 31, 2025 | Added all 5 schools and 8 programs with complete structure |
+| 1.2 | December 31, 2025 | Added templates, FAQ, program index, GitHub templates, and CHANGELOG |
 
 ## License
 
